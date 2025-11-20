@@ -1,3 +1,6 @@
 pd_farmageddon.bsp filter=lfs diff=lfs merge=lfs -text
 mazemazemazemaze.bsp filter=lfs diff=lfs merge=lfs -text
 tf2ware_ultimate.bsp filter=lfs diff=lfs merge=lfs -text
+maps/pd_farmageddon.bsp filter=lfs diff=lfs merge=lfs -text
+maps/mazemazemazemaze.bsp filter=lfs diff=lfs merge=lfs -text
+maps/tf2ware_ultimate.bsp filter=lfs diff=lfs merge=lfs -text
